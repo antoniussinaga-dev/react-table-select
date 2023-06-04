@@ -1,0 +1,14 @@
+#Template for AL projects for Dynamics 365 Business Central
+#launch.json folder
+.vscode/
+# Node Modules
+node_modules
+package-lock.json
+
+# Other File
+tsconfig.json
+yarn.lock
+components/**/*.tsx
+components/**/*.ts
+docs
+demo
