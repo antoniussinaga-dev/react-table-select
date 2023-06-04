@@ -40,7 +40,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "dependencies": {
-    "@antoniussinaga.dev/react-table-select": "^0.0.6"
-  }
+  "dependencies": {}
 }
