@@ -7,6 +7,7 @@ package-lock.json
 
 # Other File
 tsconfig.json
+tsconfig-dev.json
 yarn.lock
 components/**/*.tsx
 components/**/*.ts
