@@ -41,6 +41,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@antoniussinaga.dev/react-table-select": "^0.0.2"
+    "@antoniussinaga.dev/react-table-select": "^0.0.3"
   }
 }

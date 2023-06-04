@@ -11,6 +11,5 @@ tsconfig-dev.json
 yarn-error.log
 yarn.lock
 components/**/*.tsx
-components/**/*.ts
 docs
 demo

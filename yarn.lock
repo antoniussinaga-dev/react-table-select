@@ -2,10 +2,12 @@
 # yarn lockfile v1
 
 
-"@antoniussinaga.dev/react-table-select@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@antoniussinaga.dev/react-table-select/-/react-table-select-0.0.2.tgz#73086bdd9a436b0c2e7c49575e3ba84d95a6468c"
-  integrity sha512-EKgBp9phADZ6ysA07aPuuKmP5ZTtXR1iEABlUERHvHXmMPjaYHA78ztGO+XYiGOSRDlvv4wrHIKdzLW2rr/0Eg==
+"@antoniussinaga.dev/react-table-select@^0.0.2", "@antoniussinaga.dev/react-table-select@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@antoniussinaga.dev/react-table-select/-/react-table-select-0.0.3.tgz#78c8adbcf9452bc09e7066c1a8049bc2d86238e8"
+  integrity sha512-uFnEzpvmfKfb3d6Hg/fzr6MGeuzZRREM85uX6DQdXrr3PoX/ROw55ZAjBuMaIM0VuyN4Se+sTBfikFzFrOh3HA==
+  dependencies:
+    "@antoniussinaga.dev/react-table-select" "^0.0.2"
 
 "@types/prop-types@*":
   version "15.7.5"
