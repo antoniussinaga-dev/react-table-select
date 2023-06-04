@@ -1,6 +1,6 @@
 {
   "name": "@antoniussinaga.dev/react-table-select",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a react table components",
   "main": "./components/index.js",
   "module": "./components/index.js",
