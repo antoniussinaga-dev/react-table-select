@@ -11,6 +11,9 @@ tsconfig-dev.json
 yarn-error.log
 yarn.lock
 components/**/*.tsx
+# ignore the .ts files
 components/**/*.ts
+# include the .d.ts files
+components/**/!*.d.ts
 docs
 demo
